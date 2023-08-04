@@ -1,0 +1,44 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+
+}
+h1, h2, h3, h4, h5,h6{
+	font-family: serif;
+
+}
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	text-decoration: none;
+}
+.tabs-cover{
+	width: 700px;
+	margin: 0px auto;
+}
+.tab-btn {
+	display: inline-block;
+	padding: 15px 34px;
+	color: #FFF;
+	background: #222;
+	cursor: pointer;
+	font-weight: 500;
+}
+.tab{
+	width: 650px;
+	height: 300px;
+line-height: 300px;
+text-align: center;
+background: #458b00;
+color: #f90100;
+font-size: 40px;
+
+
+}
